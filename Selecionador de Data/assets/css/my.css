@@ -1,0 +1,11 @@
+body{
+    margin:0;
+}
+.horaescolha{
+    width:50px;
+    height:90px;
+    background-color:#EEE;
+    color:#FFF;
+    position: absolute;
+    display: none;
+}

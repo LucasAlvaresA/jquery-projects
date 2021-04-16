@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+.menu{
+    width:800px;
+    height:70px;
+    background-color:#DDD;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    margin-left:-400px;
+}
+.icone{
+    width:70px;
+    height: 70px;
+    background-color: #CCC;
+    float: left;
+    margin-left: 10px;
+    cursor: pointer;
+}

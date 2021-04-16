@@ -1,0 +1,7 @@
+.objeto{
+    width:150px;
+    height:150px;
+    cursor: move;
+    position: absolute;
+    background-color: red;
+}
