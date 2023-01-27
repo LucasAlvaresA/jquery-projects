@@ -1,2 +1,2 @@
-# jquery-projects
-Alguns pequenos projetos feitos com Jquery
+# Jquery Projects
+Some small projects made with Jquery
